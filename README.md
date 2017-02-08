@@ -18,7 +18,7 @@ The following script will install:
 Navigate to this page in Internet Explorer and click on the following link: [Launch Installer][1]
 
 
-### Install from console (PowerShell or CMD.exe)
+### Install from console (PowerShell or CMD)
 
 ```
 START http://boxstarter.org/package/nr/url?https://gist.githubusercontent.com/davepenfold/c6db3a3a106a1aeb884f825f918c7572/raw/efa0a9de2dcc753e9c4e79159ac73db8cc062f73/gistfile1.txt
