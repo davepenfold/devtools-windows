@@ -29,8 +29,8 @@ START http://boxstarter.org/package/nr/url?https://gist.githubusercontent.com/da
 Once installation is complete you may want to install some packages via npm to confirm your tools are working correctly. This project comes with a `package.json` file which can be used for this test.
 
 - Download this repository: [Download][4]
-- Extract the downloaded zip file
-- From your console (PowerShell or CMD), navigate to the extracted folder. Make sure you're in the folder where the `package.json` file is
+- Extract the downloaded zip file.
+- From your console (PowerShell or CMD), navigate to the extracted folder. Make sure you're in the folder where the `package.json` file is located.
 - Run the following command: `npm install`
 
 
